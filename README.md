@@ -1,13 +1,13 @@
 # Challenge Encriptador de One Next Education
 
-Encriptador de texto ONE G5
+Encriptador de texto 
 
 ## Descripción
 
-El encriptador desarrollado utilizando tecnologías fundamentales como HTML, CSS y JavaScript, y presenta una sección en la que se muestra el resultado del texto cifrado o descifrado, además de un botón para copiar el resultado.
+El encriptador esta hecho con tecnologías básicas como HTML, CSS y JavaScript, cuenta con apartado donde tienes el resultado de lo que se encriptó o desencripto y un botón para copiar el texto.
 
 ### Prueba la pagina aqui
 
-[Challenge Encriptador de One Next Education](https://jsramirezch.github.io/Encriptador-de-Texto/](https://jsramirezch.github.io/Challenge-ONE-Portafolio-Encriptador-de-Texto-main/)
+[Challenge Encriptador de One Next Education](https://jsramirezch.github.io/Challenge-ONE-Portafolio-Encriptador-de-Texto-main/)
 
 <img src="./Encriptador.png" alt="Encriptador de texto">
